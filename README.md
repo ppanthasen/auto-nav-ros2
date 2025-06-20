@@ -2,7 +2,7 @@
 
 This repository presents the autonomous navigation module developed for a simulated house-organizing robot using **ROS2**, **Nav2**, and **Gazebo**. The robot was designed to operate in an unknown indoor environment, explore the space, and perform basic organization tasks.
 
-> 🧾 This module is part of a larger project from **MIE1075: Autonomous Systems Engineering**, University of Toronto.  
+> 🧾 This module is part of a larger project from **MIE1075**, University of Toronto.  
 > 🛠️ Repo focuses on **navigation logic only**. Manipulation and system integration were handled separately.
 
 
